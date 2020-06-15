@@ -1,6 +1,7 @@
 # Charla_Desktop_Voice_Assistant
 
-Jarvis is designed to not require elevated user privileges at any time, and will only index things available in the current user's scope.
+Jarvis (I named it Charla) is a personal assistant made using Python. It is coded in a structured way so that you can easily understaind and modify the code for your needs. I only tested Jarvis on windows.
+Charla is designed to not require elevated user privileges at any time, and will only index things available in the current user's scope.
 
 ## Features
 
